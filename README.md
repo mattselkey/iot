@@ -11,3 +11,10 @@
 
 ![High Level Architecture Diagram](Architecture/diagrams/architecture.drawio.png)
 
+
+
+# References
+- "Dave Does Demos" [Azure EventHub integration Github](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT)
+- [YouTube Monkey C Tutorial](https://www.youtube.com/watch?v=2CJiVXboLws)
+
+
