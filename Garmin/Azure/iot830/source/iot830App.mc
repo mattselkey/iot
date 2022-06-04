@@ -2,6 +2,9 @@ import Toybox.Application;
 import Toybox.Lang;
 import Toybox.WatchUi;
 
+// AppBase is the base class for an app.
+// https://developer.garmin.com/connect-iq/api-docs/Toybox/Application/AppBase.html
+
 class iot830App extends Application.AppBase {
 
     function initialize() {
