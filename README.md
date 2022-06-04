@@ -9,5 +9,5 @@
 
 # High Level Architecture
 
-![High Level Architecture Diagram](architecture/diagrams/architecture.drawio.png)
+![High Level Architecture Diagram](Architecture/diagrams/architecture.drawio.png)
 
